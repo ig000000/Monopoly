@@ -11,7 +11,7 @@ public class Player {
 	private boolean inJail;
 	private int money;
 	private String name;
-
+//aldaketa
 	private Cell position;
 	private ArrayList properties = new ArrayList();
 	private ArrayList railroads = new ArrayList();
